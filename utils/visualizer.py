@@ -1,10 +1,3 @@
-"""
-visulization util
-
-Author: Muhammad Faizan
-Date: 13 May 2023
-
-"""
 import matplotlib.pyplot as plt
 import numpy as np
 import torch
