@@ -1,11 +1,3 @@
-"""
-==========================
-Data loading and processing
-===========================
-
-Author: Muhammad Faizan
-credit: https://github.com/faizan1234567/CKD-TransBTS/blob/main/BraTS.py
-"""
 import torch
 import os
 from torch.utils.data.dataset import Dataset
