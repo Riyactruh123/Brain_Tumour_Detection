@@ -1,13 +1,3 @@
-"""
-==========================================
-A script to evaluate the model performance
-test set evaluation on BraTS23 dataset.
-==========================================
-
-Author: Muhammad Faizan
-Date: 16.09.2024
-==========================================
-"""
 import pandas as pd
 import numpy as np
 import sys
