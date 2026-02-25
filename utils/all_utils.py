@@ -1,9 +1,3 @@
-"""
-all utils files for data loading and usage
-
-credit: https://github.com/faizan1234567/CKD-TransBTS/blob/main/utils.py
-"""
-
 import os
 import SimpleITK as sitk
 import numpy as np
