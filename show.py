@@ -1,13 +1,3 @@
-"""
-==============================================================
-script to show the image and label, or image with labeled mask
-==============================================================
-
-Author: Muhammad Faizan
-Date: 13 May 2023
-Copywrite (c) Muhammad Faizan
-==============================================================
-"""
 import matplotlib.pyplot as plt
 import logging
 import argparse
