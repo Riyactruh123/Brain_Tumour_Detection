@@ -1,8 +1,3 @@
-'''Inference on 3D brain tumor image
-Author: Muhammad Faizan
-The model will take an image and the code will show the mask and true labels on the image
-'''
-
 import torch
 import matplotlib.pyplot as plt
 import numpy as np
